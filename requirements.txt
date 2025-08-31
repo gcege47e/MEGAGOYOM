@@ -1,0 +1,4 @@
+pyTelegramBotAPI==4.14.0
+flask==2.3.3
+jdatetime==4.1.0
+persian==0.7.0
