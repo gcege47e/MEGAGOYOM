@@ -1,0 +1,8 @@
+pyTelegramBotAPI
+flask
+flask-cors
+jdatetime
+python-dotenv
+gunicorn
+pymango
+cryptography
