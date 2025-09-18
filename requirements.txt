@@ -1,0 +1,14 @@
+pyTelegramBotAPI
+flask
+flask-cors
+jdatetime
+python-dotenv
+gunicorn
+pymango
+cryptography
+flask-login 
+authlib
+flask-sqlalchemy 
+flask-socketio 
+werkzeug 
+eventlet
